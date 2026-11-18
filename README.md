@@ -1,14 +1,15 @@
 # Hey, I'm GackedPeach 👋
 
-I build practical tools, tinker with tech, and share what I'm learning along the way.
+Mostly playing around with code and building things I want to use. Learning as I go, with some AI help along the way.
 
-## Code & progress
+### What I'm working on
 
-- **[File Organiser Pro](https://github.com/GackedPeach/folder-tidy)** — a desktop app that organises copies by type, extension, or date and keeps originals in place. **v1.2 public beta**, ready for testing. [Download for Windows, Mac or Linux](https://github.com/GackedPeach/folder-tidy/releases/tag/v1.2.0-beta.1).
-- **[Folder Tidy](https://github.com/GackedPeach/folder-tidy/blob/main/tidy.py)** — the original small Python script for sorting files by type, with a preview before moving them.
+**[File Organiser Pro](https://github.com/GackedPeach/folder-tidy)** is my main project at the moment. It's a desktop app for sorting messy folders into organised copies, while leaving the originals alone.
 
-Each project's README has instructions and more detail.
+The **v1.2 beta** is up for Windows, Mac and Linux. Still a work in progress, so feedback is welcome.
 
-## My store
+[Grab the beta](https://github.com/GackedPeach/folder-tidy/releases/tag/v1.2.0-beta.1) · [Have a look at the code](https://github.com/GackedPeach/folder-tidy/tree/main/file-organiser-pro) · [Report a bug](https://github.com/GackedPeach/folder-tidy/issues/new?template=bug_report.yml)
 
-I'm also building a Shopify store for people into cybersecurity, IoT tinkering, and penetration testing. It's a work in progress, and I'm learning as I go.
+### Other things
+
+I'm also putting together a Shopify store for cybersecurity and IoT gear. A mix of store building, tech tinkering, and seeing what I can get working.
