@@ -4,10 +4,10 @@ I build practical tools, tinker with tech, and share what I'm learning along the
 
 ## Code & progress
 
-- **[Folder Tidy](https://github.com/GackedPeach/folder-tidy)** — a small Python script that sorts files by type. Preview first, then apply the moves.
-- **[File Organiser Pro](https://github.com/GackedPeach/folder-tidy/tree/main/file-organiser-pro)** — a desktop file organiser with filters, move previews, undo, and duplicate detection. **Currently at v1.1, in early development.** Next focus: reliability with large folders, usability, and complex backup exports.
+- **[File Organiser Pro](https://github.com/GackedPeach/folder-tidy)** — a desktop app that organises copies by type, extension, or date and keeps originals in place. **v1.2 public beta**, ready for testing. [Download for Windows, Mac or Linux](https://github.com/GackedPeach/folder-tidy/releases/tag/v1.2.0-beta.1).
+- **[Folder Tidy](https://github.com/GackedPeach/folder-tidy/blob/main/tidy.py)** — the original small Python script for sorting files by type, with a preview before moving them.
 
-Each project's README has setup instructions and more detail.
+Each project's README has instructions and more detail.
 
 ## My store
 
