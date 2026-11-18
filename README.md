@@ -8,7 +8,7 @@ Mostly playing around with code and building things I want to use. Learning as I
 
 The **v1.2 beta** is up for Windows, Mac and Linux. Still a work in progress, so feedback is welcome.
 
-[Grab the beta](https://github.com/GackedPeach/folder-tidy/releases/tag/v1.2.0-beta.1) · [Have a look at the code](https://github.com/GackedPeach/folder-tidy/tree/main/file-organiser-pro) · [Report a bug](https://github.com/GackedPeach/folder-tidy/issues/new?template=bug_report.yml)
+[Grab the beta](https://github.com/GackedPeach/folder-tidy/releases) · [Have a look at the code](https://github.com/GackedPeach/folder-tidy/tree/main/file-organiser-pro) · [Report a bug](https://github.com/GackedPeach/folder-tidy/issues/new?template=bug_report.yml)
 
 ### Other things
 
