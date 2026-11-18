@@ -1,15 +1,14 @@
 # Hey, I'm GackedPeach 👋
 
-I'm getting started with sharing projects on GitHub. I like practical tools, tinkering with tech, and making things I can actually use.
+I build practical tools, tinker with tech, and share what I'm learning along the way.
 
-I'm also building a Shopify store aimed at cybersecurity enthusiasts, IoT hackers, and security penetration testers. It's still a work in progress, and I'm learning as I go.
+## Code & progress
 
-### Store update — November 2026
+- **[Folder Tidy](https://github.com/GackedPeach/folder-tidy)** — a small Python script that sorts files by type. Preview first, then apply the moves.
+- **[File Organiser Pro](https://github.com/GackedPeach/folder-tidy/tree/main/file-organiser-pro)** — a desktop file organiser with filters, move previews, undo, and duplicate detection. **Currently at v1.1, in early development.** Next focus: reliability with large folders, usability, and complex backup exports.
 
-- Shipping to Australia is mostly set up.
-- I'm currently applying for an ABN.
-- Products can no longer be purchased when they're out of stock.
+Each project's README has setup instructions and more detail.
 
-## A useful little project
+## My store
 
-🧹 **[Folder Tidy](https://github.com/GackedPeach/folder-tidy)** — a small Python script that sorts loose files into folders by type. It previews changes before moving anything and skips existing filenames. Handy for a messy Downloads folder.
+I'm also building a Shopify store for people into cybersecurity, IoT tinkering, and penetration testing. It's a work in progress, and I'm learning as I go.
